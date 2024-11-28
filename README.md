@@ -1,3 +1,35 @@
+# Project Overview
+
+## Core Backend
+Backend Project:
+https://github.com/Creatief-AI-Innovations/SuiMarketplaceSDK-Backend
+
+## SDK & Plugins
+
+### JavaScript SDK
+Repository:
+https://github.com/Creatief-AI-Innovations/sui-marketplace-js
+
+Published NPM Package:
+https://www.npmjs.com/package/@creatief/suisdk
+
+### Unreal Engine Plugin
+Repository:
+https://github.com/Creatief-AI-Innovations/sui-marketplace-ue-plugin
+
+## Demo Projects
+
+### JavaScript Sample
+Repository:
+https://github.com/Creatief-AI-Innovations/sui-marketplace-js-sample
+
+### Unreal Engine Sample
+Repository:
+https://github.com/Creatief-AI-Innovations/SuiMarketplaceSDK-Unreal
+
+
+---
+
 # Sui Marketplace JS Sample
 
 This is a sample project demonstrating the usage of the `@creatief/suisdk` library to build a marketplace application.
