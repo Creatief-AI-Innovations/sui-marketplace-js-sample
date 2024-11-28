@@ -81,7 +81,7 @@ export const useProducts = () => {
             // await loadProducts();
             // await loadMyProducts();
         } catch (err) {
-            toast.error(err);
+            toast.error(String(err));
             // setError('Failed to sell product');
             console.error(err);
             throw err;
@@ -110,7 +110,7 @@ export const useProducts = () => {
             // await loadProducts();
             // await loadMyProducts();
         } catch (err) {
-            toast.error(err);
+            toast.error(String(err));
             // setError('Failed to sell product');
             console.error(err);
             throw err;
